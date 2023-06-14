@@ -19,4 +19,4 @@ To use the Billing System, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/codevdr/billing-system.git
+   git clone https://github.com/CODEVDR/Billing_System.git
