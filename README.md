@@ -20,8 +20,8 @@ The Billing System offers the following features:
 4. MAX 500 MB RAM , 50MB HARD DISK/SSD SPACE , ANY DUAL CORE PROCESSOR , NO GRAPHICS REQUIRED (IF THERE THEN IT IS BEST)
 
 ## NOTE
-1. EDIT assets/crypt/data.crypt With Customized USERNAME and PASSWORD seperated by comma **FOR LOGIN**
-2. EDIT assets/crypt/data1.crypt With Customized LOCALHOST USER and PASSWORD seperated by comma **FOR SQL CONNECTIVITY**
+1. EDIT [assets/crypt/data.crypt]:https://github.com/CODEVDR/Billing_System/blob/main/assets/crypt/data.crypt With Customized USERNAME and PASSWORD seperated by comma **FOR LOGIN**
+2. EDIT [assets/crypt/data1.crypt]:https://github.com/CODEVDR/Billing_System/blob/main/assets/crypt/data1.crypt With Customized LOCALHOST USER and PASSWORD seperated by comma **FOR SQL CONNECTIVITY**
 
 ## Usage
 
