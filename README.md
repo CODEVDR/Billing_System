@@ -12,6 +12,13 @@ The Billing System offers the following features:
 
 3. **Sell History:** The system keeps track of sales transactions, enabling you to view the sell history. You can see information such as the date of sale, products sold, quantities, prices, and the customers involved.
 
+## Requirements
+
+1. Python 3 or Above
+2. MySQL Community Edition
+3. WINDOWS / LINUX / MAC
+4. MAX 500 MB RAM , 50MB HARD DISK/SSD SPACE , ANY DUAL CORE PROCESSOR , NO GRAPHICS REQUIRED (IF THERE THEN IT IS BEST)
+
 ## Usage
 
 To use the Billing System, follow these steps:
