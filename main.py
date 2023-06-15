@@ -19,9 +19,16 @@ class App(Tk):
         # -----
         self.root.title("XYZ Billing | CodeWithVdr")
         self.root.geometry(f"800x800")
-        self.root.state('zoomed')
+        try:
+            self.root.state('zoomed')
+        except:
+            print("User Using Ubuntu")
+            self.root.attributes('-zoomed', True)
         self.root.minsize(750, 750)
-        self.root.iconbitmap("assets/images/icon.ico")
+        try:
+            self.root.iconbitmap("assets/images/icon.ico")
+        except:
+            print("User Using Ubuntu")
         # For Backgound Image
         self.bgimg = Image.open("assets/images/bg.jpg")
         self.r_img = self.bgimg.resize((self.Wwidth, self.Wheight))
